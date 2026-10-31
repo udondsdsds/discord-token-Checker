@@ -1,4 +1,4 @@
-#　token　Checker
+# token　Checker
 
 `tokens.txt` に入っているDiscordトークンの有効/無効をチェックするシンプルなツールです。
 
